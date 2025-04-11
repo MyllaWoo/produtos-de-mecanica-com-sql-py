@@ -1,0 +1,3 @@
+# .gitignore
+produtos.db
+__pycache__/
