@@ -25,11 +25,18 @@ O banco de dados utilizado é o `produtos.db`, criado a partir de um script SQL.
 ## 🖥️ Capturas de Tela
 Abaixo estão exemplos de funcionamento do código no terminal:
 
-- Tela do menu principal ![Menu](https://github.com/user-attachments/assets/7c5956ac-43ae-4d26-9f83-c7d17dc745ae)
-- Inserção de novo produto ![Inserção](https://github.com/user-attachments/assets/4a7d03ab-7a92-4ee2-9eef-5efd18fa9978)
-- Listagem dos produtos ![Listagem](https://github.com/user-attachments/assets/2b131900-32ca-4415-be2f-d653069abf17)
-- Busca por ID e Nome ![Busca por ID](https://github.com/user-attachments/assets/916de829-5bc4-4dab-a687-c70f5449d870)  ![Busca por nome](https://github.com/user-attachments/assets/832603be-252b-425e-8c54-a6859a808c86)
-- Atualização e exclusão ![Atualização](https://github.com/user-attachments/assets/42184f35-ce9d-47c1-9124-7fc4f8cbae30)  ![Delete](https://github.com/user-attachments/assets/72dec4a4-80f3-4bb7-bc7d-9fd2ef88edae)
+- Tela do menu principal
+- ![Menu](https://github.com/user-attachments/assets/7c5956ac-43ae-4d26-9f83-c7d17dc745ae)
+- Inserção de novo produto
+- ![Inserção](https://github.com/user-attachments/assets/4a7d03ab-7a92-4ee2-9eef-5efd18fa9978)
+- Listagem dos produtos
+- ![Listagem](https://github.com/user-attachments/assets/2b131900-32ca-4415-be2f-d653069abf17)
+- Busca por ID e Nome
+- ![Busca por ID](https://github.com/user-attachments/assets/916de829-5bc4-4dab-a687-c70f5449d870)
+- ![Busca por nome](https://github.com/user-attachments/assets/832603be-252b-425e-8c54-a6859a808c86)
+- Atualização e exclusão
+- ![Atualização](https://github.com/user-attachments/assets/42184f35-ce9d-47c1-9124-7fc4f8cbae30)
+- ![Delete](https://github.com/user-attachments/assets/72dec4a4-80f3-4bb7-bc7d-9fd2ef88edae)
 
 ---
 
